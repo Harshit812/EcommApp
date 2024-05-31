@@ -2,6 +2,9 @@ Hi there! I am Harshit.
 
 Here's the step by step guide to run the app. 
 
+Gdrive link for APK and working demo of the application: 
+https://drive.google.com/drive/u/1/folders/1ru2lLfOE8q8kIDcU3RHbtJOZ83PuIpZ0
+
 Method: 1 (Installing the attached APK)
 
 - Just transfer the .apk file to your physical device (android) or drag the file directly to your running emulator. 
